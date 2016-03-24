@@ -4,7 +4,7 @@ import (
 	"crypto/md5"
 	"fmt"
 
-	"code.google.com/p/go.crypto/ssh"
+	"golang.org/x/crypto/ssh"
 )
 
 // AuthorizedKey represents an ssh public key
